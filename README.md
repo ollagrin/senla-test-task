@@ -1,13 +1,4 @@
 # senla-test-task
-Sure! Here's an example of how you can describe the interaction with your application in the README file:
-
-# Weather Application
-
-The Weather Application is a RESTful API that provides weather information and average temperature for a given date range. It interacts with a weather API to fetch the weather data and persists it in a database for future access.
-
-## Getting Started
-
-To get started with the Weather Application, follow the instructions below.
 
 ### Prerequisites
 
