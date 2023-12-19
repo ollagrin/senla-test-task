@@ -6,8 +6,7 @@
 - Tomcat 9
 - Maven
 - PostgreSQL
-- IntellijIDEA
-
+  
 Configure the application properties:
    - Create the `db.properties` file in the `src/main/resources` directory.
    - Set the database connection properties as in db.properties.origin (driver, url, username, password).
